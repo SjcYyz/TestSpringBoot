@@ -1,11 +1,7 @@
 package cn.tedu.com;
 
 /**
-<<<<<<< HEAD
- * 1.晚上去吃饭
-=======
- * 1.沈军成
->>>>>>> branch 'master' of https://github.com/SjcYyz/TestSpringBoot.git
+ * 1.这几天我好烦
  * @author Sjc
  *
  */
