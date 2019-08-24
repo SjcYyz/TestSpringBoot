@@ -1,7 +1,7 @@
 package cn.tedu.com;
 
 /**
- * 1.更新了
+ * 1.已解决冲突
  * @author Sjc
  *
  */
